@@ -1,1 +1,3 @@
-# Quiz-med-Redux
+# Sportquiz with Redux.
+
+Its optional to change/add/delete questions. 
